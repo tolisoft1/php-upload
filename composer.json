@@ -1,9 +1,11 @@
 {
     "name": "fql/uploadfile",
     "description": "一个通用文件上传包",
-    "type": "l",
     "require": {
-        "php": "^7.0"
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "php": ">=5.4"
     },
     "license": "MIT",
     "authors": [
