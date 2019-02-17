@@ -14,7 +14,7 @@
             "email": "1024886296@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
    "autoload": {
     "psr-4": {
         "fql\\": "src/"
